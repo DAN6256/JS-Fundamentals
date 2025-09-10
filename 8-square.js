@@ -6,7 +6,7 @@ if (!args[0] || isNaN(num)) {
 } else {
     let strForm = '';
     for (let i=0;i<num;i++){
-        strForm+='x';
+        strForm+='X';
     }
 
     for (let i=0; i<num;i++){
